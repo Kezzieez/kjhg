@@ -1,0 +1,153 @@
+sudo nano /etc/shadow
+nano /etc/shadow
+shutdown /s /t 60
+shutodown /s /t 60
+shutdown /s /t 60
+shutdown /s 60 /t 60
+sudo shutdown
+touch rr.txt
+vi rr.txt
+cat rr.txt
+cp rr.txt 
+nano /var/log/auth.log
+vi /var/log/auth.log
+touch potato.txt
+vi potato.txt
+nano potato.txt
+cat potato.txt
+vi potato.txt
+touch secrets.txt
+vi secrets.txt
+cd ~/De
+cd ~/Desktop/
+cd ~
+/bin/echo "Hello World!"
+echo "Hello World!"
+man -k directories
+mdkrir=m
+mdkrir-m
+mkdir-m
+mkdir ~/SummerFun
+mdkrir-m
+mkdir-m
+mkdir -m
+mkdrir -m
+mkdir -m
+mkdirm
+mkdir m
+mkdir -m
+mkdir --m
+mkdir --help
+mkdir -p ~/SummerFun/june/2023/linux
+cd ~/SummerFun/june/2023/linux
+pwd
+cd ~
+ls
+ls -llR /var/log
+ls /var/log
+reset
+Doskey History
+DOSKEY
+doskey /history
+donkey
+doskey alias
+doskey $*
+(~/.bash_history)
+(~/.~_history)
+(~/.~)
+-l
+history
+cd ~/summerfun/June
+cd ~/SummerFun/june
+cd ~
+~/secrets.txt
+touch ~/secrets.txt
+vi secrets.txt
+sudo dd if=4860.a1.dd of=/dev/sdb bs=102400
+cd Downloads
+sha1sum 4860.a1.zip
+sha1sum 4860.a1.dd
+sha1sum 4860.a1(1).zip
+sha1sum 4860.a1.dd
+sudo dd if=/dev/zero of=/dev/sdb bs 10000000 status=progress
+sudo dd if=/dev/zero of=/dev/sdb bs=10000000 status=progress
+sudo dd if=/dev/zero of=/dev/sdb bs 10000000 status=progress
+sudo dd if=/dev/zero of=/dev/sdb bs=10000000 status=progress
+sudo dd if=/dev/zero of=/dev/sdb bs=102400 count=30 status=progress
+fdisk
+sudo fdisk 0l
+sudo fdisk -l
+sudo dd if=4860.a1.dd of=/dev/sdb bs=102400
+fdisk -l
+sudo fdisk -l
+mount
+sudo sha1sum /dev/sda
+sudo sha1sum /dev/sdb1
+sudo dd if=/dev/zero of=dev/sdb bs=102400 count=30 status=progress
+sudo dd if=/dev/zero of=/dev/sdb bs=102400 count=30 status=progress
+sudo sha1sum /dev/sdb1
+sudo dd if=/dev/zero of=/dev/sdb bs=10000000 status=progress
+sudo dd if=4860.a1.dd of=/dev/sdb bs=102400
+fdisk -l
+sudo fdisk -l
+sudo sha1sum /dev/sdb1
+sudo apt-get install dclfdd
+sudo apt-get install dcfldd
+sudo dd if=/dev/sdb1 of=~/Downloads/forensicopy.img bs=102400
+sha1sum forensicopy.img
+sha1sum /dev/sdb1
+sudo sha1sum /dev/sdb1
+nano ~./bash_history
+cp ~/.bash_history ~/bash_history_backup
+cp ~/.bash_history ~/bash_historyy
+uname -a
+stat 4860.12.dd
+cd ~/Downloads
+stat 4860.12.dd'
+
+cd ~/Downloads
+stat 4860.a2.dd
+md5sum 4860.a2.dd
+sha1sum 4860.a2.dd
+sudo xxd /dev/sda1
+sudo xxd /dev/sr0
+sudo xxd /dev/sda1
+sudo xxd -l 512 /dev/sda1
+xxd -l 4860.a2.dd
+xxd -l 512 4860.a2.dd
+cd ~/Downloads
+ccd -l 512 4860.a2.dd
+xxd -l 512 4860.a2.dd
+xxd -l 512 -g 1 4860.a2.dd
+xxd -s 0x200 -l 512 -g 4860.a2.dd
+xxd 4860.a2.dd
+find /mnt/data -type f | wc -l
+xxd -s 2000 -l 100 4860.a2.dd
+fsstat 4860.a2.dd
+fls -r -f fat 4860.a2.dd | wc -l
+xxd 1testdd.txt
+xxd testdd.txt
+xxd -s 0x4400 -l 288 -p 1testdd.txt
+xxd -r
+sha1sum 1testdd.txt
+dd
+dd _cyber.pdf
+xxd 4860.a2.dd
+cd Downloads
+xxd 4860.a2.dd
+dd if=4860.a2.dd of=1testdd.txt bs=1 skip=0x4400 count=288
+dd if=4860.a2.dd of=1testdd.txt bs=1 skip=288 count=288
+dd if=4860.a2.dd of=1testdd.txt bs=1 skip=17408 count=288
+sha1sum 1testdd.txt
+ls -l 4860.a2.dd
+dd if=4860.a2.dd of=2useful.docx bs=1 skip=17920 count=65704
+dd if=4860.a2.dd of=2useful.docx bs=1 skip=17920 count=13157
+dd if=4860.a2.dd of=winup.jpg bs=1 skip=31232 count=65704
+dd if=4860.a2.dd of=cyber.pdf bs=1 skip=97280 count=59374
+dd if=4860.a2.dd of=flsj.png bs=1 skip=1156672 count=540179
+dd if=4860.a2.dd of=flsj.png bs=1 skip=156672 count=540179
+sha1sum 2useful.docx
+sha1sum winup.jpg
+sha1sum cyber.pdf
+sha1sum flsh.png
+sha1sum flsj.png
