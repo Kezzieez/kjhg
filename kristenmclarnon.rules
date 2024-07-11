@@ -1,0 +1,29 @@
+#Rule 1
+#alert tcp $BADGUY any -> $SERVER any (flags: S; msg: ".128 Possible Syn Scan."; sid: 1)
+
+#Rule 2
+#alert tcp $BADGUY any -> $VICTIM 21 (flags: s; msg: ".128 attempt to FTP to victim."; sid: 2)
+
+#Rule 3
+#alert tcp $BADGUY any -> $VICTIM 23 (flags: S; msg: ".128 attempt to telnet to victim."; sid: 3)
+
+#Rule 4
+#alert tcp $BADGUY any -> $SERVER any (content: "SSH-2"; msg: ".128 attempt to SSH to server."; sid: 4)
+
+#Rule 5
+#alert tcp $BADGUY any -> $SERVER 80 (flags: S; msg: ".128 attempt to the web server."; sid: 5)
+
+#Rule 6
+#alert tcp $BADGUY any -> $SERVER 80 (content: "apache2.conf"; msg: "Found apache2.conf."; sid:6)
+
+#Rule 7
+#alert tcp $BADGUY any -> $VICTIM any (content: "passwd"; msg: "Found passwd."; sid:7)
+
+#Rule 8
+#alert tcp $BADGUY any -> $VICTIM any (content: "shadow"; msg: "Found shadow."; sid:8)
+
+#Rule 9
+#alert tcp $BADGUY any -> $VICTIM any (content: "jgarrett"; msg: "jgarrett over ftp."; sid:9)
+
+#Rule 10
+#alert tcp $BADGUY any -> $SERVER any (flags: FA; msg: "F/A for SSH teardown."; sid: 10)
